@@ -1,0 +1,6 @@
+@MarketPriceService.UI_HostAddress = http://localhost:5125
+
+GET {{MarketPriceService.UI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
